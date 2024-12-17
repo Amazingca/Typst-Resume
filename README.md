@@ -1,4 +1,4 @@
-== Resume Renderer (in Typst)
+## Resume Renderer (in Typst)
 
 This package is what I use to render my resume in Typst. The purpose of it is to serve as a viable replacement for my resume in LaTeX, of which is immensely verbose.
 
